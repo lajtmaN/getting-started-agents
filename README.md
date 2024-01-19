@@ -18,3 +18,5 @@ Install requirements to run the different agent frameworks:
 pip install -r requirements.txt
 ```
 
+OpenAI Api keys will need to be added on the individual agents to use azure.
+Keys will be destributed @Austria
